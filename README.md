@@ -17,9 +17,4 @@ Data Visualization: Master bivariate data visualization techniques to effectivel
 
 Supporting Mathematical Concepts: Enhance your understanding of supporting mathematical concepts that underpin statistical analysis.
 
-By exploring this repository, you will:
 
-Develop practical coding skills in R-Studio for data manipulation and analysis.
-Gain a deep understanding of statistical concepts and their real-world applications.
-Be equipped to interpret and visualize data effectively.
-Acquire knowledge that is valuable for both academic pursuits and practical data science projects.
